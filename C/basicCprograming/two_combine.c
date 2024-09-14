@@ -1,0 +1,13 @@
+#include<stdio.h>
+int main()
+{
+    int a,b;
+    
+    printf("enter the value of a and b ");
+    scanf("%d%d",&a,&b);
+
+    printf("value of a = %d value of b = %d",a,b);
+
+    return 0;
+
+}
